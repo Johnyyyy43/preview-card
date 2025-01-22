@@ -1,0 +1,14 @@
+{
+    "name": "blog-preview-card",
+    "version": "1.0.0",
+    "description": "A simple blog preview card web page",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
